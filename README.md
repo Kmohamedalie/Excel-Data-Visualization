@@ -4,7 +4,7 @@
 **Image Source:**    [Microsoft](https://www.microsoft.com/en-gb/microsoft-365/excel)
 
 
-## **Task**:  Visualizing and publishing charts with excel.
+## **Task**:  Visualizing and publishing ecel charts as webpage.
 
 
 
