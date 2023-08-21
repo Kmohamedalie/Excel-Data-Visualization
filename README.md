@@ -8,7 +8,7 @@
 
 
 
-##  **Lectures available:** [The Complete Data Visualization Course with Python, R, Tableau, and Excel with Elitsa Kaloyanova](https://365datascience.com/login/?redirectUrl=https%3A%2F%2Flearn.365datascience.com%2Fcourses%2Fpreview%2Fdata-visualization%2F)
+<!--##  **Lectures available:** [The Complete Data Visualization Course with Python, R, Tableau, and Excel with Elitsa Kaloyanova](https://365datascience.com/login/?redirectUrl=https%3A%2F%2Flearn.365datascience.com%2Fcourses%2Fpreview%2Fdata-visualization%2F)-->
 ##  **Final Case study Dashboard:** [Drinko Report]()
 
 
